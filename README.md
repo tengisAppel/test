@@ -1,6 +1,3 @@
 #GIT test#
 
-info testfile
-
-
-doing cahnges
+testfile or something

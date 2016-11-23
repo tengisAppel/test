@@ -1,3 +1,4 @@
+%%
 clear
 clc
 
@@ -12,6 +13,8 @@ m = bi2de(m','left-msb')+1;
 s = c(m);
 
 z = ifft(s,1024);
+
+%%
 
 channel = 1;
 switch channel
